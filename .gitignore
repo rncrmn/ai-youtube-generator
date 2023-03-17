@@ -1,0 +1,10 @@
+node_modules/
+dist
+lib/
+.vscode/
+.idea/
+coverage/
+types/
+.DS_Store
+.turbo/
+.env

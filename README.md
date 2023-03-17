@@ -1,6 +1,6 @@
 ## AI YouTube Generator
 
-![ai youtube generator](https://user-images.githubusercontent.com/55722725/225981196-2ff856b6-31b6-467f-ab7c-77ffcaa12bb0.png)
+![ai youtube generator](https://user-images.githubusercontent.com/55722725/225981519-3b11cdbb-d6de-4f91-94af-acf31ff20b19.png)
 
 ## Usage
 

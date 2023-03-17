@@ -1,3 +1,7 @@
+## AI YouTube Generator
+
+![ai youtube generator](https://user-images.githubusercontent.com/55722725/225981196-2ff856b6-31b6-467f-ab7c-77ffcaa12bb0.png)
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
